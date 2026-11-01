@@ -1,0 +1,12 @@
+build/
+.venv/
+venv/
+__pycache__/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.log
+monitor
+test_ring_buffer
